@@ -58,7 +58,11 @@ ui <- fluidPage(
           tags$a(href = "http://deanattali.com/", "Dean Attali"),
           HTML("&bull;"),
           "Code and data",
-          tags$a(href = "https://github.com/daattali/user2017", "on GitHub")
+          tags$a(href = "https://github.com/daattali/user2017", "on GitHub"),
+          HTML("&bull;"),
+          tags$a(href = "http://deanattali.com/colourpicker-user2017/", "My talk"),
+          HTML("&bull;"),
+          tags$a(href = "http://deanattali.com/blog/user2017/", "Blog post")
       )
   ),
   fluidRow(
