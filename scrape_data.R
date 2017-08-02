@@ -6,12 +6,6 @@
 # This code was written in a hurry while on a train, and it is far
 # from being "great and robust" scraping code, so beware trying to copy any of
 # thid code :)
-#
-# Quick stats:
-#   - total attendance to conference: 1161
-#   - number of attendees who used the scheduling app: 966
-#   - number of attendees who didn't waste valuable pre-boarding time scraping
-#     useless data: 1160
 
 library(rvest)
 
